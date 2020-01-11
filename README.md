@@ -19,6 +19,7 @@ I will cite and distribute a more extensive reading list (which I am far from fi
 - Katherine McKittrick. [On plantations, prisons, and a black sense of place.](https://myelms.umd.edu/files/45965850/download?download_frd%3D1&usg=AOvVaw0VLa2VcqgXgW0XoGHP_nnq)
   - note: this is a direct pdf download
 - Sylvia Wynter. [Unsettling the Coloniality of Being/Power/Truth/Freedom: Towards the Human, After Man, Its Overrepresentation -- An Argument.](https://law.unimelb.edu.au/__data/assets/pdf_file/0010/2432989/Wynter-2003-Unsettling-the-Coloniality-of-Being.pdf)
+- Donna Haraway. [Anthropocene, Capitalocene, Plantationocene, Chthulucene: Making Kin.](http://environmentalhumanities.org/arch/vol6/6.7.pdf)
 - Nabil Hassein. [Computing, climate change, and all of our relationships.](https://www.deconstructconf.com/2018/nabil-hassein-computing-climate-change-and-all-our-relationships)
 
 
