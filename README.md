@@ -1,3 +1,6 @@
+# Computing, Climate Change, and Black Futurity
+2020 January 13th Monday, The School of Afrotectopia
+
 ## Abstract
 Recent academic, artistic, and activist work has foregrounded the materiality of computing by drawing attention to the immense ecological impact of mining, manufacturing, data centers, undersea cables, and other physical infrastructure required to present the abstraction of "the cloud", which is still too often discussed as if it is immaterial. In fact, both hardware and software contribute directly and enormously to carbon emissions, as well as directly or indirectly supporting anti-Black (and anti-Earth) systems of resource extraction, labor exploitation, policing, incarceration, and imperialism.
 
